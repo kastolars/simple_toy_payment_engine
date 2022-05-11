@@ -1,9 +1,8 @@
 /target
-RustCodingTest.pdf
 .idea/vcs.xml
 .idea/modules.xml
 .idea/misc.xml
 /.idea/.gitignore
 /accounts.csv
 /perf.csv
-/simple_toy_payment_enginer.iml
+/simple_toy_payment_engine.iml
