@@ -64,7 +64,7 @@ cargo run transactions.csv > accounts.csv
     * Yes, the application reads data from the first argument to the program and outputs it to stdout.
       Providing `> output.csv` arguments should pipe std output to the output file argument.
 * Is it properly formatted?
-    * Output matches the directions, ie. columns are `client,available,held,total,locked`
+    * Output matches the directions, i.e. columns are `client,available,held,total,locked`
 
 ### Completeness
 
